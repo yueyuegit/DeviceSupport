@@ -35,17 +35,38 @@ iOS 12.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f
 iOS 12.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/12.0%20(16A366).zip) </br>
 
 **iOS 11+**</br>
-iOS 11.4 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/11.4%20(15F79).zip) </br>
-iOS 11.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/11.3%20(15E5167d).zip) </br>
-iOS 11.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/11.2.zip) </br>
+iOS 11.4 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/11.4%20(15F79).zip) </br>
+iOS 11.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/11.3%20(15E5167d).zip) </br>
+iOS 11.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/11.2.zip) </br>
 iOS 11.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/11.1%20(15B87).zip) </br>
 iOS 11.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/11.0%20(15A5361a).zip) </br>
 
-**iOS 10+**</br>
-iOS 10.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.3%20(14E269)) </br>
-iOS 10.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.2) </br>
-iOS 10.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.1) </br>
-iOS 10.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.0) </br>
+**iOS 10+**- [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/10.0-10.3.zip)</br>
+iOS 10.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.3.zip) </br>
+iOS 10.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.2.zip) </br>
+iOS 10.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.1.zip) </br>
+iOS 10.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/10.0.zip) </br>
+
+**iOS 9+**</br>
+iOS 9.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/9.3.zip) </br>
+iOS 9.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/9.2.zip) </br>
+iOS 9.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/9.1.zip) </br>
+iOS 9.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/9.0.zip) </br>
+
+**iOS 8+**</br>
+iOS 8.4 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/8.4.zip) </br>
+iOS 8.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/8.3.zip) </br>
+iOS 8.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/8.2.zip) </br>
+iOS 8.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/8.1.zip) </br>
+iOS 8.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/8.0.zip) </br>
+
+**iOS 7+**</br>
+iOS 7.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/7.1.zip) </br>
+iOS 7.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/7.0.zip) </br>
+
+**iOS 6+**</br>
+iOS 6.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/6.1.zip) </br>
+iOS 6.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/20906f6f52f6aa865dccb260876441239370801d/6.0.zip) </br>
 
 
 </br>
