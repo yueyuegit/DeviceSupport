@@ -1,6 +1,6 @@
 # DeviceSupport
 
-Xcode DeviceSupport (6.0 - 15.4)
+Xcode DeviceSupport (4.2 - 15.4)
 
 **Most recent releases:**</br>
 iOS 15.4 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/15.4(FromXcode_13.3_beta_2_xip).zip) </br>
@@ -65,5 +65,13 @@ iOS 7.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/7.0.zip
 **iOS 6+**</br>
 iOS 6.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/6.1.zip) </br>
 iOS 6.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/6.0.zip) </br>
+
+**iOS 5+**</br>
+iOS 5.1 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/5.1.zip) </br>
+iOS 5.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/5.0.zip) </br>
+
+**iOS 4+**</br>
+iOS 4.3 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/4.3.zip) </br>
+iOS 4.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/4.2.zip) </br>
 
 </br>
