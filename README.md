@@ -3,6 +3,9 @@
 Xcode DeviceSupport (4.2 - 15.6)
 
 **Most recent releases:**</br>
+iOS 16.0 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/16.0.zip) </br>
+
+**iOS 15+**</br>
 iOS 15.6 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/15.6.zip) </br>
 iOS 15.5 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/15.5.zip) </br>
 iOS 15.4 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/15.4(FromXcode_13.3_beta_2_xip).zip) </br>
