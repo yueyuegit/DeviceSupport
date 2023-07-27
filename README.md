@@ -1,6 +1,6 @@
 # DeviceSupport
 
-Xcode DeviceSupport (4.2 - 15.6)
+Xcode DeviceSupport (4.2 - 16.2)
 
 **Most recent releases:**</br>
 iOS 16.2 - [Download](https://github.com/yueyuegit/DeviceSupport/raw/main/16.2.zip) </br>
